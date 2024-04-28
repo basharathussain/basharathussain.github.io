@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-asharat Hussain holds the M.S. degree in Computer Science with distinction from the International Islamic University (IIUI), Islamabad, Pakistan. Currently, he is pursuing his Ph.D. in Computer Science at COMSATS University, Islamabad (Wah Campus), and is Director of IT at Royal Brackets Technologies in Pakistan. His primary research focus involves applying deep learning and federated learning methodologies to address to ongoing problems in intelligent transportation. With a professional background in the IT industry, his expertise is in both software development and academia. He has extensive experience in teaching and research at prestigious universities. With over 25 years of experience as an IT professional, he has contributed to software development projects from multinational corporations across Europe and the United States. His expertise spans various programming languages, including C++, C#, ASP.NET, Java, Matlab, and Python. He is proficient in software design and architecture, particularly in developing scalable applications. Currently, he is serving as a permanent faculty member in the Department of Computer Science, FAST University (NUCES), Islamabad, and remains committed to advancing knowledge and innovation in the field of computer science.
+Basharat Hussain holds the M.S. degree in Computer Science with distinction from the International Islamic University (IIUI), Islamabad, Pakistan. Currently, he is pursuing his Ph.D. in Computer Science at COMSATS University, Islamabad (Wah Campus). His primary research focus involves applying deep learning and federated learning methodologies to address to ongoing problems in intelligent transportation. With a professional background in the IT industry, his expertise is in both software development and academia. He has extensive experience in teaching and research at prestigious universities. With over 25 years of experience as an IT professional, he has contributed to software development projects from multinational corporations across Europe and the United States. His expertise spans various programming languages, including C++, C#, ASP.NET, Java, Matlab, and Python. He is proficient in software design and architecture, particularly in developing scalable applications. Currently, he is serving as a permanent faculty member in the Department of Computer Science, FAST University (NUCES), Islamabad, and remains committed to advancing knowledge and innovation in the field of computer science.
 
- His main research interests are in Internet of Things (IoT) security, with a good grasp of Artificial Intelligence and related topics. He's excited to explore various computer science subjects and welcomes new challenges.
+ He has a good grasp of Artificial Intelligence and related topics and is excited to explore various computer science subjects and welcomes new challenges.
 </div>
 
 
