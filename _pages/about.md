@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-Basharat Hussain holds the M.S. degree in Computer Science with distinction from the International Islamic University (IIUI), Islamabad, Pakistan. Currently, he is pursuing his Ph.D. in Computer Science at COMSATS University, Islamabad (Wah Campus). His primary research focus involves applying deep learning and federated learning methodologies to address to ongoing problems in intelligent transportation. With a professional background in the IT industry, his expertise is in both software development and academia. He has extensive experience in teaching and research at prestigious universities. With over 25 years of experience as an IT professional, he has contributed to software development projects from multinational corporations across Europe and the United States. His expertise spans various programming languages, including C++, C#, ASP.NET, Java, Matlab, and Python. He is proficient in software design and architecture, particularly in developing scalable applications. Currently, he is serving as a permanent faculty member in the Department of Computer Science, FAST University (NUCES), Islamabad, and remains committed to advancing knowledge and innovation in the field of computer science.
-
- He has a good grasp of Artificial Intelligence and related topics and is excited to explore various computer science subjects and welcomes new challenges.
+Basharat Hussain, an accomplished professional, holds an M.S. degree in Computer Science with distinction from the International Islamic University, Islamabad, Pakistan. Currently pursuing a Ph.D. in Computer Science at COMSATS University, Islamabad, his research focuses on using deep and federated learning for intelligent transportation. With over 25 years of experience in IT, he excels in software development and academia alike. He has contributed to software projects for multinational corporations, displaying expertise in programming languages like C++, C#, Java, Python, ect. Currently a permanent faculty member at FAST University, Islamabad, he is committed to advancing knowledge in computer science, particularly in AI.
 </div>
 
 
