@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 Basharat Hussain, an accomplished professional, holds an M.S. degree in Computer Science with distinction from the International Islamic University, Islamabad, Pakistan. Currently pursuing a Ph.D. in Computer Science at COMSATS University, Islamabad, his research focuses on using deep and federated learning for intelligent transportation. With over 25 years of experience in IT, he excels in software development and academia alike. He has contributed to software projects for multinational corporations, displaying expertise in programming languages like C++, C#, Java, Python, ect. Currently a permanent faculty member at FAST University, Islamabad, he is committed to advancing knowledge in computer science, particularly in AI.
-</div> 
+</div>
 
 
 A data-driven personal website
