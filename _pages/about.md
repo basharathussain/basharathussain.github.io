@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<div style="text-align: justify;">
+asharat Hussain holds the M.S. degree in Computer Science with distinction from the International Islamic University (IIUI), Islamabad, Pakistan. Currently, he is pursuing his Ph.D. in Computer Science at COMSATS University, Islamabad (Wah Campus), and is Director of IT at Royal Brackets Technologies in Pakistan. His primary research focus involves applying deep learning and federated learning methodologies to address to ongoing problems in intelligent transportation. With a professional background in the IT industry, his expertise is in both software development and academia. He has extensive experience in teaching and research at prestigious universities. With over 25 years of experience as an IT professional, he has contributed to software development projects from multinational corporations across Europe and the United States. His expertise spans various programming languages, including C++, C#, ASP.NET, Java, Matlab, and Python. He is proficient in software design and architecture, particularly in developing scalable applications. Currently, he is serving as a permanent faculty member in the Department of Computer Science, FAST University (NUCES), Islamabad, and remains committed to advancing knowledge and innovation in the field of computer science.
+
+ His main research interests are in Internet of Things (IoT) security, with a good grasp of Artificial Intelligence and related topics. He's excited to explore various computer science subjects and welcomes new challenges.
+</div>
+
 
 A data-driven personal website
 ======
