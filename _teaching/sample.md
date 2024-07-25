@@ -1,3 +1,26 @@
+---
+title: "Teaching experience 3"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/sample
+venue: "University Fast, Department"
+date: 2015-01-01
+location: "City, Country"
+---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
+
+
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [core_contributors]: https://img.shields.io/badge/core_contributors-3-orange.svg 'Number of core contributors'
