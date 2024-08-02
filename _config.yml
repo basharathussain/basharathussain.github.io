@@ -33,13 +33,13 @@ author:
   email            : "basharat@live.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7492-5725"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Basharat-Hussain-6"
+  googlescholar    : "https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en"
   ieeeprofile      : "https://ieeexplore.ieee.org/author/37088916405"
+  researchgate     : "https://www.researchgate.net/profile/Basharat-Hussain-6"
+  arxiv            : # URL - Update with the correct link to your profile
+  impactstory      : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
