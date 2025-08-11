@@ -8,7 +8,7 @@ date: 2025-06-25
 location: "Islamabad, PK"
 ---
 ### Course Description  
-This basic course explores the concepts, techniques, and applications of Machine Learning (ML), providing students with the theoretical foundations and hands-on skills required to design, train, and evaluate predictive models. The course covers both supervised and unsupervised learning methods, introduces neural networks and deep learning, and emphasizes model evaluation, optimization, and practical deployment considerations. Students will work with Python-based ML tools and libraries such as Scikit-learn, NumPy, and Pandas to solve real-world problems.  
+This basic course explores the concepts, techniques, and applications of Machine Learning (ML), providing students with the theoretical foundations and hands-on skills required to design, train, and evaluate predictive models. Students will work with Python-based ML tools and libraries such as Scikit-learn, NumPy, and Pandas to solve real-world problems.  
 
 ### Key Topics Covered
 - **Introduction to Machine Learning**
