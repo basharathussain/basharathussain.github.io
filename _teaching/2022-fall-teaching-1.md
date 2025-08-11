@@ -1,5 +1,5 @@
 ---
-title: "BSCS 4008 Software Design and Architecture"
+title: "Software Design and Architecture BSCS (CS-4008)"
 collection: teaching
 type: "Course"
 permalink: 
@@ -7,8 +7,6 @@ venue: "Riphah International University, CS Department"
 date: 2017-08-31
 location: "Islamabad, PK"
 ---
-- Classroom: BSCS
-- Schedule: Mo Th 10:00 - 11:30
 
 ## Course Description  
 This course provides students with a comprehensive understanding of the principles and practices essential for designing and architecting robust, scalable, and maintainable software systems.  
