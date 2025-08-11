@@ -14,9 +14,19 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Research & Software"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
     
-  - title: "CV"
+  - title: "Contact & CV"
     url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
+
+    - title: "Links"
+    url: /Links/
