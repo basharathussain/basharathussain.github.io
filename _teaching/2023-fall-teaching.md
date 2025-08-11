@@ -1,5 +1,5 @@
 ---
-title: "BSCS 4020 Cloud Computing"
+title: "Cloud Computing BSCS (CS-4020)"
 collection: teaching
 type: "Course"
 permalink: 
