@@ -1,5 +1,5 @@
 ---
-title: "BSCS 4012 Data Mining"
+title: "Data Mining MSCS (CS-4012 )"
 collection: teaching
 type: "Course"
 permalink: 
