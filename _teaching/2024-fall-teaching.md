@@ -1,5 +1,5 @@
 ---
-title: "BSCS 4015 Software Design and Analysis"
+title: "Software Design and Analysis (BSCS-4015 )"
 collection: teaching
 type: "Course"
 permalink: 
