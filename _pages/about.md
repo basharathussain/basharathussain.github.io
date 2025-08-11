@@ -11,32 +11,29 @@ redirect_from:
 
 ### ***Brief Introduction*** 
 
-### About Software Development Experience 
- Basharat Hussain is an accomplished Software Professional with over two decades of experience across diverse technology domains. He has a track record in software development, architecture, enterprise systems, and technical leadership, with extensive experience working internationally in the US, Denmark, Pakistan, and the UK.
- 
-Basharat Hussain received an M.S. in computer science from the International Islamic University (IIUI), Islamabad, Pakistan. He is pursuing a PhD in computer science from COMSATS University Islamabad, Wah Campus. He is a senior IT specialist with 23 years of experience developing software applications for multinational companies in Europe and the USA. He has professional experience in software design and architecture using various languages, including C++, C\#, ASP.NET Core, Java, HTML, and Python. 
+# Basharat Hussain
 
-### About Research Interests
+**GenAI** || **LLM** || **Multimodality** || **RAG** || **Fine-Tuning** || **N8N** || **VectorDB** || **Software Technical Lead** || **Solution Architect** || **Deep Learning** || **Machine Learning** || **Cloud Computing** || **PhD** || **Assistant Professor @ FAST**
 
-He has extensive academic experience in teaching and research with major universities in Pakistan. He is working as a Lecturer with the Faculty of Computing, Fast University, Islamabad, Pakistan. His current research interests include applying deep learning, machine learning and federated learning to solve ongoing problems in intelligent transportation, LLMs, and motion diffusion models.
+Basharat Hussain received his **Ph.D. in Computer Science** from *COMSATS University Islamabad*, Pakistan, and holds an **M.S. in Computer Science** from the *International Islamic University (IIUI)*, Islamabad. With over **23 years of professional experience**, he has developed and architected enterprise-grade software solutions for multinational companies in **Europe** and the **USA**, specializing in **software design, architecture, and development** using **C++**, **C#**, **ASP.NET Core**, **Java**, **HTML**, and **Python**.
 
-Basharat Hussain is about to complete his Ph.D. degrees in in computer science from COMSATS University Islamabad. He is working as a full-time lecturer at National University of Computer and Emerging Sciences (FAST), Islamabad. At FAST, he leads research projects for MS students in the domains of intelligent transportation systems, time-series analysis, federated learning, cloud computing and LLMs.
+Currently, he serves as an **Assistant Professor** in the Faculty of Computing at **FAST National University**, Islamabad, where he leads research in **deep learning**, **large language models (LLMs)**, **motion diffusion**, **multimodal AI**, and **federated learning**. His research further explores **Retrieval-Augmented Generation (RAG)**, **LoRA-based model fine-tuning**, and the integration of **Vector Databases** for advanced AI pipelines.
 
-In addition to his academic duties, through Royals Brackets SMC Ltd., Basharat serves as a chief architect for software, utilities and research projects, including C#, Java, C++, Python development languages in building AI, ML, Website, service oriented application.
+Beyond academia, Basharat provides **technical consultancy** on real-world and cutting-edge **LLM-driven solutions**, leveraging tools such as **N8N** for workflow automation, **VectorDB** for semantic search, and **cloud-native architectures** for scalable AI deployments. His work bridges **applied research** and **practical engineering**, delivering AI-powered solutions in **intelligent transportation**, **generative AI**, and **autonomous systems**.
 
-His research interests are in “intelligent tranisportation systems and large language models”' and include data modeling, simulation, stability and control in the domains of smart travel and generative models. In addition, he performs research on the application of software technologies, cloud computing, IoT, federated learning and machine learning for design and operation research systems.
+His research interests are in “intelligent transportation systems and large language models” and include data modeling, simulation, stability, and control in the domains of smart travel and generative models. In addition, he performs research on the application of software technologies, cloud computing, IoT, federated learning and machine learning for design and operation research systems.
 
-Here's a latest Nov. 2024 cloud computing seminar short at a universioty campus in Islamabad.
+Here's the latest Nov. 2024 cloud computing seminar short at a university campus in Islamabad.
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/DE4ExTba4fo" title="Cloud seminar video 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Research interests
 
-### 1. Federated Learning in Intelligent Transportastion
+### 1. Federated Learning in Intelligent Transportation
 
-- <div style="text-align: justify;">  Researching in Vertical Federated Learning, I focus on using machine learning to address Intelligent Transportation issues. By exploring this intersection, I aim to develop effective solutions to enhance the model effectiveness, security and privacy. My goal is to contribute to the field by conducting innovative research in this area </div>
+- <div style="text-align: justify;">  Researching in Vertical Federated Learning, I focus on using machine learning to address Intelligent Transportation issues. By exploring this intersection, I aim to develop effective solutions to enhance the model's effectiveness, security, and privacy. My goal is to contribute to the field by conducting innovative research in this area </div>
 
 ### 2. Deep Learning in Intelligent Transportation
 
-- <div style="text-align: justify;"> Fascinated by Spatio-Temporal Neural Networks, particularly in utilizing Graph Convolution Networks. Exploring the dynamics of transportation systems, I aim to uncover patterns and relationships crucial for understanding emergent properties and developing effective solutions in Urban Traffic Predcition </div>
+- <div style="text-align: justify;"> Fascinated by Spatio-Temporal Neural Networks, particularly in utilizing Graph Convolution Networks. Exploring the dynamics of transportation systems, I aim to uncover patterns and relationships crucial for understanding emergent properties and developing effective solutions in Urban Traffic Prediction </div>
