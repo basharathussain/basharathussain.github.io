@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![1pager](https://github.com/basharathussain/basharathussain.github.io/blob/master/images/banner.png)
-
+![1pager](https://raw.githubusercontent.com/basharathussain.github.io/blob/master/images/banner.png)
 ### ***Brief Introduction*** 
 
 # Basharat Hussain
