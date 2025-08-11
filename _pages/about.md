@@ -12,7 +12,7 @@ redirect_from:
 
 # Basharat Hussain
 
-**GenAI** | **LLM** | **Multimodality** | **RAG** | **Fine-Tuning** | **N8N** | **VectorDB** | **Software Technical Lead** | **Solution Architect** | **Deep Learning** | **Machine Learning** | **Cloud Computing** | **PhD** | **Assistant Professor @ FAST**
+**GenAI** | **LLM** | **Multimodality** | **RAG** | **Fine-Tuning** | **N8N** | **VectorDB** | **Software Technical Lead** | **Solution Architect** | **Deep Learning** | **Machine Learning** | **Cloud Computing** | **PhD** | **Assistant Professor**
 
 Basharat Hussain received his **Ph.D. in Computer Science** from *COMSATS University Islamabad*, Pakistan, and holds an **M.S. in Computer Science** from the *International Islamic University (IIUI)*, Islamabad. With over **23 years of professional experience**, he has developed and architected enterprise-grade software solutions for multinational companies in **Europe** and the **USA**, specializing in **software design, architecture, and development** using **C++**, **C#**, **ASP.NET Core**, **Java**, **HTML**, and **Python**.
 
