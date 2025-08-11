@@ -13,7 +13,11 @@ author_profile: true
  
 ## ​​List of Publications
 
-* Article (J03) **B. Hussain** and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection based Approach”,  _IEEE Transactions on Network Science and Engineering_, 2024, <a href="https://doi.org/10.1109/TNSE.2024.3487268" style="color: #D5006D;">doi: 10.1109/TNSE.2024.3487268</a><br />.
+* Article (J04) A. A. Khan, **B. Hussain**, M. Islam, M. M. A. Dabel and A. K. Bashir, "Optimizing Content Cache with Vehicular Edge Computing: A Deep Federated Learning based Novel Predictive Study," _IEEE Transactions on Consumer Electronics_, <a href="https://10.1109/TCE.2025.3571029" style="color: #D5006D;">doi: 10.1109/TCE.2025.3571029</a><br />.
+
+* Article (J03) **B. Hussain** and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection based Approach”,  _IEEE Transactions on Network Science and Engineering_, vol. 12, no. 1, pp. 145-155, Jan.-Feb. 2025, <a href="https://doi.org/10.1109/TNSE.2024.3487268" style="color: #D5006D;">doi: 10.1109/TNSE.2024.3487268</a><br />.
+
+* Article (J03) **B. Hussain** and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection based Approach”,  _IEEE Transactions on Network Science and Engineering_, vol. 12, no. 1, pp. 145-155, Jan.-Feb. 2025, <a href="https://doi.org/10.1109/TNSE.2024.3487268" style="color: #D5006D;">doi: 10.1109/TNSE.2024.3487268</a><br />.
 
 * Article (J02) **B. Hussain**, M. K. Afzal, S. Anjum, I. Rao and B-S. Kim, “A Novel Graph Convolutional Gated Recurrent Unit Framework for Network-Based Traffic Prediction”, _IEEE Access_, vol. 11, pp. 130102-130118, 2023, <a href="https://doi.org/10.1109/ACCESS.2023.3333938" style="color: #D5006D;">doi: 10.1109/ACCESS.2023.3333938</a><br />.
 
