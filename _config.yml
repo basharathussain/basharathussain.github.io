@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Basharat Hussain"
 title_separator          : "-"
 name                     : &name "Basharat Hussain"
-description              : &description "personal description"
+description              : &description "I am working on deep learning, federated learning, intelligent transportation, large language models and image/motion diffusion."
 url                      : https://basharathussain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "basharathussain/basharathussain.github.io.git"
@@ -26,9 +26,11 @@ author:
   avatar           : "bash.jpg"
   name             : "Basharat Hussain"
   pronouns         : # example: "she/her"  
-  bio              : "Doing research in Federated Learning Interested in exploring Intelligent Transportation Systems (ITS)"
+  bio              : "Mr. Basharat Hussain, working on deep learning, federated learning, intelligent transportation, large language models and image/motion diffusion."
   location         : "Islamabad, Pakistan"
-  employer         : "FAST NUCES Islamabad"
+  employer         : "NUCES (FAST), Islamabad"
+  employer_url     : "http://isb.nu.edu.pk/Faculty/Details/6823"
+  email            : "basharat.hussain@isb.nu.edu.pk"
   uri              : # URL
   email            : "basharat@live.com" 
 
@@ -37,6 +39,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en"
   ieeeprofile      : "https://ieeexplore.ieee.org/author/37088916405"
   researchgate     : "https://www.researchgate.net/profile/Basharat-Hussain-6"
+  webofscience     : "https://www.webofscience.com/wos/author/record/ABN-0262-2022"
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -72,8 +75,10 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "/?channel/UCueeCScZ-EamMuTkFN0HyTg"
   zhihu            : # URL
+  github           : "basharathussain"
+
 
 
 # Site Settings
