@@ -1,5 +1,5 @@
 ---
-title: "MSCS 5021 DevOps & Cloud Computing"
+title: "DevOps & Cloud Computing"
 collection: teaching
 type: "Course"
 permalink: 
@@ -7,7 +7,7 @@ venue: "Fast University, CS Department"
 date: 2024-11-25
 location: "Islamabad, PK"
 ---
-- Classroom: MSCS
+- Classroom: MSCS (CS-5021 )
 
 ## Course Description  
 This advanced course delves into the practices of DevOps and the architecture of cloud computing, with a dedicated focus on Amazon Web Services (AWS). It equips students with the skills to design, deploy, and manage scalable and resilient applications using AWS tools and DevOps methodologies.  
