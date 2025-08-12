@@ -9,9 +9,9 @@ redirect_from:
 
 ![1pager](https://raw.githubusercontent.com/basharathussain/basharathussain.github.io/refs/heads/master/images/banner.png)
 
-# Basharat Hussain ##(PhD, Assistant Professor)
+# Basharat Hussain (Assistant Professor)
 
-**GenAI / LLM** | **Multimodality** | **RAG** | **Model Fine-Tuning** | **AgenticAI** | **N8N** | **Software Technical Lead** | **Solution Architect** | **ML / DL / DevOps** | **Federated Learning** | **Cloud Computing** 
+**GenAI / LLM** | **Multimodality** | **RAG** | **Model Fine-Tuning** | **AgenticAI** | **N8N** | **Software Technical Lead** | **Solution Architect** | **ML / DL / DevOps** | **Federated Learning** | **Cloud Computing** | **PhD**
 
 Basharat Hussain received his **Ph.D. in Computer Science** from *COMSATS University Islamabad*, Pakistan, and holds an **M.S. in Computer Science** from the *International Islamic University (IIUI)*, Islamabad. With over **23 years of professional experience**, he has developed and architected enterprise-grade software solutions for multinational companies in **Europe** and the **USA**, specializing in **software design, architecture, and development** using **C++**, **C#**, **ASP.NET Core**, **Java**, **HTML**, and **Python**.
 
