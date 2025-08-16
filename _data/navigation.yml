@@ -12,13 +12,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Research Projects"
+  - title: "Research & Software"
     url: /research/
 
-  # - title: "Seminars"
-  #   url: /seminar/
-      
-   - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/
     
   - title: "Contact & CV"
