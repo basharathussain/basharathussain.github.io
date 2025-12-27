@@ -21,9 +21,9 @@ Beyond academia, Basharat provides **technical consultancy** on real-world and c
 
 His research interests are in “intelligent transportation systems and large language models” and include data modeling, simulation, stability, and control in the domains of smart travel and generative models. In addition, he performs research on the application of software technologies, cloud computing, IoT, federated learning and machine learning for design and operation research systems.
 
-Here's the latest Nov. 2024 cloud computing seminar short at a university campus in Islamabad.
+<!-- Here's the latest Nov. 2024 cloud computing seminar short at a university campus in Islamabad.
 
-<!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/DE4ExTba4fo" title="Cloud seminar video 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe width="300" height="200" src="https://www.youtube.com/embed/DE4ExTba4fo" title="Cloud seminar video 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 
 ## Research interests
